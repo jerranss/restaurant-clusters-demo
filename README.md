@@ -11,7 +11,7 @@ Built with **Python**, **Streamlit**, and **Folium** for the UC Berkeley C88C pr
 - Live deployment with Streamlit Cloud
 
 ## Live Demo
-View Live App(https://your-streamlit-link.streamlit.app)
+View Live App(https://restaurant-clusters-demo.streamlit.app/)
 
 ## Technologies
 Python • Streamlit • Folium • Pandas • K-Means • Linear Regression
